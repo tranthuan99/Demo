@@ -1,0 +1,13 @@
+header{
+	padding: 60px 0;
+}
+.type{
+	text-align:center;
+	font-size: 50px;
+	margin: 15px;
+	color: #347bb7;
+	font-weight: bold;
+}
+.content p{
+	display:none;
+}
